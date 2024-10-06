@@ -81,12 +81,12 @@ a {
   color: #fff;
   background-color: #4d5ae5;
 }
-.hero-btn:hover {
-  color: #404bbf;
-}
+.hero-btn:hover,
 .hero-btn:focus {
+  background-color: #404bbf;
   color: #404bbf;
 }
+
 .hero-btn {
   cursor: pointer;
 }
